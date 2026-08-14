@@ -10,12 +10,12 @@ SkillGraph lets a developer see which jobs best match their current skills, unde
 
 ![SkillGraph demo](docs/screenshots/demo.gif)
 
-*(Full-quality video: [docs/screenshots/demo.mp4](docs/screenshots/demo.mp4), also hosted at `<DEMO_URL_HERE>/demo.mp4` once deployed)*
+*(Full-quality video: [docs/screenshots/demo.mp4](docs/screenshots/demo.mp4), also hosted at [skillgraph.sathyaseelan.in/demo.mp4](http://skillgraph.sathyaseelan.in/demo.mp4))*
 
 See the [Screenshots](#screenshots) section below for a labeled walkthrough of each page.
 
-- **Hosted demo:** `<DEMO_URL_HERE>` — not deployed yet.
-- **Screen recording:** see the gif above (or `<RECORDING_URL_HERE>` if a separate video is added).
+- **Hosted demo:** [skillgraph.sathyaseelan.in](http://skillgraph.sathyaseelan.in/)
+- **Screen recording:** see the gif above, or the full-quality video at [skillgraph.sathyaseelan.in/demo.mp4](http://skillgraph.sathyaseelan.in/demo.mp4).
 
 ---
 
