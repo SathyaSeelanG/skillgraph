@@ -12,17 +12,7 @@ SkillGraph lets a developer see which jobs best match their current skills, unde
 
 *(Full-quality video: [docs/screenshots/demo.mp4](docs/screenshots/demo.mp4), also hosted at `<DEMO_URL_HERE>/demo.mp4` once deployed)*
 
-**Dashboard** — a developer's profile card and their top job matches, ranked by match score.
-
-![Dashboard](docs/screenshots/dashboard.png)
-
-**Job Details** — the match explanation renders the traversal directly: which required skills matched, which are missing, and the graph pattern that produced the result.
-
-![Job Details](docs/screenshots/job-details.png)
-
-**Graph Explorer** — an interactive React Flow view of the subgraph around a selected developer: their skills, the jobs those skills unlock, and the companies posting them.
-
-![Graph Explorer](docs/screenshots/graph-explorer.png)
+See the [Screenshots](#screenshots) section below for a labeled walkthrough of each page.
 
 - **Hosted demo:** `<DEMO_URL_HERE>` — not deployed yet.
 - **Screen recording:** see the gif above (or `<RECORDING_URL_HERE>` if a separate video is added).
